@@ -1,0 +1,5 @@
+[
+    {"ID":"1","SellerID":"1","Description":"Product 1","Price":100},
+    {"ID":"2","SellerID":"2","Description":"Product 2","Price":200}, 
+    {"ID":"3","SellerID":"3","Description":"Product 3","Price":300}
+]
